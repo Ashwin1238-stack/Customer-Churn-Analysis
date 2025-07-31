@@ -83,7 +83,7 @@ A machine learning and analytics project focused on predicting telecom customer 
 ---
 
 ### 👨‍💻 [Anas Zaki](https://github.com/Anas-Zaki)  
-🔗 [LinkedIn](https://www.linkedin.com/in/anas-zaki-8a3328269/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/mr-zaki/)  
 🎓 *Business Analytics Learner at Masai School*
 
 
