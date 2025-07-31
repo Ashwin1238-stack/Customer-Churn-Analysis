@@ -49,6 +49,7 @@ A machine learning and analytics project focused on predicting telecom customer 
 
 ## 📁 Folder Structure
 📦customer-churn-analysis/
+
 ├── data/ # Raw and cleaned datasets
 
 ├── notebooks/ # Jupyter notebooks with analysis and modeling
