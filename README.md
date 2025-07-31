@@ -76,13 +76,13 @@ A machine learning and analytics project focused on predicting telecom customer 
 
 ---
 
-### 👨‍💻 [Mahesh Mahato](https://github.com/Mahesh-masai)  
+### 👨‍💻 [Mahesh Mahato](https://github.com/MaheshMahat0)  
 🔗 [LinkedIn](https://www.linkedin.com/in/mahesh-mahato-148b44198/)  
 🎓 *Data Science Trainee at Masai School*
 
 ---
 
-### 👨‍💻 [Anas Zaki](https://github.com/anaszaki)  
+### 👨‍💻 [Anas Zaki](https://github.com/Anas-Zaki)  
 🔗 [LinkedIn](https://www.linkedin.com/in/anas-zaki-8a3328269/)  
 🎓 *Business Analytics Learner at Masai School*
 
