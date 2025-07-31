@@ -67,15 +67,25 @@ A machine learning and analytics project focused on predicting telecom customer 
 - Power BI Dashboard Snapshot
 
 ---
+## 👥 Project Contributors
 
-## 👨‍💻 Author
+### 👨‍💻 [Ashwin Kumar](https://github.com/Ashwin1238-stack)  
+🔗 [LinkedIn](https://www.linkedin.com/in/ashwin-kumar-9449b0164/)  
+🎓 *Data Science Trainee at Masai School*  
+💼 *Former Personal Banker at HDFC Bank*
 
-**Ashwin Kumar**  
-🔗 [LinkedIn](https://www.linkedin.com/in/ashwin-kumar-9449b0164/) | 🎓 Data Science Trainee at Masai School | 💼 Former Personal Banker at HDFC Bank  
-**Mahesh Mehto**
-🔗 [LinkedIn](https://www.linkedin.com/in/mahesh-mahato-148b44198/)| 🎓 Data Science Trainee at Masai School |
-**Anas Zaki**          | 🎓 Trainee at Masai School |              | 🎓Business Analytics learner at Masai School |
 ---
+
+### 👨‍💻 [Mahesh Mahato](https://github.com/Mahesh-masai)  
+🔗 [LinkedIn](https://www.linkedin.com/in/mahesh-mahato-148b44198/)  
+🎓 *Data Science Trainee at Masai School*
+
+---
+
+### 👨‍💻 [Anas Zaki](https://github.com/anaszaki)  
+🔗 [LinkedIn](https://www.linkedin.com/in/anas-zaki-8a3328269/)  
+🎓 *Business Analytics Learner at Masai School*
+
 
 ## 📌 Note
 
